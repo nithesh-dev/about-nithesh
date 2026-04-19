@@ -1,0 +1,169 @@
+{
+  "profile": {
+    "name": "Nithesh Velmurugan",
+    "title": "Senior Application Developer",
+    "summary": "Senior Application Developer with 4.6 years of experience specializing in large-scale distributed microservices and system integrations. Expert in Kotlin/Spring Boot and .NET Core, with a proven track record of leading complex legacy-to-modern migrations that achieved 60% performance gains. Recognized for driving XP practices (TDD, Pair Programming) and taking full accountability for mission-critical features under rigorous timelines. Adept at reverse-engineering legacy logic and implementing strategic architectural shifts to ensure cloud portability and scalability.",
+    "address": "Coimbatore, TN 641002",
+    "phone": "+91 75023 97553",
+    "email": "nitheshvelmurughan@gmail.com",
+    "linkedin": "Linkedin.com/in/nithesh-velmurugan",
+    "www": "About Me"
+  },
+  "experience": [
+    {
+      "role": "Senior Consultant Developer",
+      "company": "Thoughtworks - Coimbatore",
+      "date": "09/2024 to Current",
+      "client": "OEConnection (OEC)",
+      "desc": [
+        "**Modernization Leadership:** Leading the end-to-end modernization of a mission-critical Order Management (OM) API from legacy .NET Framework to a scalable .NET Core architecture.",
+        "**Cloud Readiness & Migration:** Architected the migration of legacy MSSQL Stored Procedures to Entity Framework (EF) to decouple business logic from the database layer, specifically to support the future infrastructure transition from Rackspace to AWS Cloud.",
+        "**Core Feature Ownership:** Engineered the \"Order Creation & Transaction\" engine, managing complex workflows involving 30+ relational tables and high-frequency third-party API integrations.",
+        "**Multi-Layer Caching Strategy:** Engineered a high-performance caching layer using In-Memory and Redis for external API responses.",
+        "**Stakeholder Collaboration:** Collaborated with stakeholders to define business-specific TTL (Time-to-Live) policies based on data volatility and production change frequency.",
+        "**Performance Engineering:** Realized a 60% performance boost compared to the legacy application through targeted MSSQL query optimizations, API refactoring, and parallel task execution.",
+        "**Scalability Optimization:** Increased system throughput by optimizing database roundtrips and implementing shared HttpClient patterns to prevent socket exhaustion under high load.",
+        "**Technical Problem Solving:** Navigated extreme technical debt by deep-diving into legacy codebases to reverse-engineer undocumented business logic and complex data flows.",
+        "**Rigorous Delivery:** Maintained high velocity under aggressive timelines, providing critical support through weekend deployments to ensure a seamless client handover.",
+        "**Collaborative Influence:** Actively contributed to Dev Huddles and Sprint Planning, providing architectural insights and fostering strong collaboration with QA to ensure delivery of robust, production-ready code."
+      ],
+      "tags": [".NET Core", ".NET Framework", "MSSQL Server", "AWS", "Azure DevOps", "Entity Framework", "Mediator Pattern", "Rackspace", "IIS Manager"]
+    },
+    {
+      "role": "Senior Consultant Developer",
+      "company": "Thoughtworks - Coimbatore",
+      "date": "09/2024 to Current",
+      "client": "Axis Bank - (Home Loan & Tractor Loan)",
+      "desc": [
+        "**Leadership & Mentorship:** Led cross-functional teams to architect and deliver the SFDC Integration (A.2) and NTB to ETB handling features, ensuring a successful production go-live by managing the full development lifecycle.",
+        "**Junior Mentorship:** Mentored junior consultants through pair programming and consistent code reviews, fostering a culture of technical excellence and increasing team alignment on coding standards.",
+        "**Subject Matter Expert (SME):** Acted as the SME for SFDC and platform-level features, unblocking multiple product teams—including Working Capital—to accelerate their development timelines across the account.",
+        "**Strategic Problem Solving:** Analyzed complex system requirements to migrate over 800 data fields and associated documentation from the Maximus platform to Salesforce, resolving ambiguities in external vendor APIs to ensure data integrity.",
+        "**Business Impact:** Mitigated significant business losses by conducting Root Cause Analysis (RCA) and developing a STPD handling feature, which reduced a critical customer drop-off rate of 20% by successfully capturing 25% of previously declined loan cases.",
+        "**Stakeholder Alignment:** Collaborated with stakeholders and Product Owners to align technical delivery with business goals, notably leading a 3-day onsite workshop in Mumbai that accelerated project clarity and saved an estimated 2 weeks of development time.",
+        "**Agile Efficiency:** Streamlined team processes by leading Agile ceremonies, including Retrospectives and IPMS, where I utilized end-to-end system knowledge to provide accurate effort estimations.",
+        "**Knowledge Transfer:** Facilitated KT sessions across teams, detailing the technical architecture and business logic of the SFDC integration to ensure long-term maintainability.",
+        "**Operational Risk:** Safeguarded project success by proactively managing production support and writing MongoDB scripts as interim fixes, ensuring operational continuity during critical delivery phases.",
+        "**Recruitment:** Drove organizational growth by evaluating candidate potential as a Technical Interviewer."
+      ],
+      "tags": ["Kotlin", "Java", "Spring Boot", "ReactJS", "MongoDB"]
+    },
+    {
+      "role": "Consultant Developer",
+      "company": "ThoughtWorks - Coimbatore",
+      "date": "06/2022 to 09/2024",
+      "client": "Parent Pay",
+      "desc": [
+        "**Cloud Transformation:** Led the modernization of a legacy desktop application, re-architecting it into a cloud-based web application to improve scalability and accessibility.",
+        "**Architectural Ownership:** Took primary responsibility for API design and Domain Modeling to ensure a robust foundation for the new cloud-native architecture.",
+        "**Feature Inception:** Conducted a shadow inception for a high-priority \"Ethnicity\" tracking feature with a Senior Developer and contributed to its full-stack development."
+      ],
+      "tags": ["C#", ".NET Core", "Azure", "React", "Microsoft SQL Server"]
+    },
+    {
+      "role": "Consultant Developer",
+      "company": "ThoughtWorks - Coimbatore",
+      "date": "06/2022 to 09/2024",
+      "client": "Education Software Solutions (ESS)",
+      "desc": [
+        "**Large-Scale Automation:** Automated database migrations for an on-premise system running in 1,000+ schools, replacing manual, error-prone patching processes and significantly reducing deployment time.",
+        "**Release Engineering:** Implemented an auto-update feature for background services, ensuring over 12,000 potential school installations remained synchronized with the latest releases.",
+        "**Professional Recognition:** Received formal appreciation from the Tech Lead of an external partner company for the \"Force Patch/Package\" solution, enhancing the product's modularity and reliability."
+      ],
+      "tags": ["C#", ".NET", "Azure", "Microsoft SQL Server"]
+    },
+    {
+      "role": "Graduate Consultant Developer",
+      "company": "Thoughtworks - Coimbatore, India",
+      "date": "06/2021 to 06/2022",
+      "client": null,
+      "desc": [
+        "Developed a user management application with React.js front-end and Java Spring Boot back-end.",
+        "Engineered key features such as calendar scheduling, task tracking, and people management.",
+        "Implemented clean code practices and test-driven development (TDD) to ensure robust, maintainable code.",
+        "Collaborated closely with clients, participating in regular client interactions and feedback sessions.",
+        "Leveraged PostgreSQL for efficient data storage and retrieval in the backend.",
+        "Actively engaged in cross-team collaboration, gaining diverse project experience and mentorship opportunities."
+      ],
+      "tags": []
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming Languages",
+      "iconName": "Code",
+      "skills": ["Java", "Kotlin", "C#/.NET", "TypeScript", "JavaScript", "HTML5/CSS3"]
+    },
+    {
+      "title": "Frameworks & Libraries",
+      "iconName": "Code",
+      "skills": ["Spring Boot", ".NET Core", "React JS", "Node JS", "Entity Framework (EF)", "Mediator Pattern", "Tailwind CSS"]
+    },
+    {
+      "title": "Databases & Caching",
+      "iconName": "Database",
+      "skills": ["MongoDB", "MS SQL Server", "PostgreSQL", "Redis (Distributed Caching)"]
+    },
+    {
+      "title": "Cloud & Tools",
+      "iconName": "Cloud",
+      "skills": ["Azure", "Jenkins", "AWS", "Azure Pipelines", "Git", "Docker", "Postman", "Kubernetes", "Helm Charts", "MongoDB Compass", "Jira", "IIS Manager", "Excel"]
+    },
+    {
+      "title": "Architecture",
+      "iconName": "Terminal",
+      "skills": ["Microservices", "Domain-Driven Design (DDD)", "API Modernization", "Cloud-native Transformation"]
+    }
+  ],
+  "skills_xp_practices": [
+    {
+      "title": "Test-Driven Development (TDD)",
+      "desc": "Committed to high code quality and reliability by following TDD cycles (Red-Green-Refactor) to ensure comprehensive test coverage."
+    },
+    {
+      "title": "Pair Programming",
+      "desc": "Actively engages in pair programming to promote knowledge sharing, reduce defects through real-time code review, and bring diverse perspectives to complex problem-solving."
+    },
+    {
+      "title": "CI/CD",
+      "desc": "Proficient in enhancing automated pipelines using Jenkins and Azure Pipelines to enable frequent, reliable production releases."
+    },
+    {
+      "title": "Agile Leadership",
+      "desc": "Expert in XP and Scrum methodologies, leading Retrospectives to drive continuous improvement and conducting Knowledge Transfer (KT) sessions."
+    },
+    {
+      "title": "Consulting & Stakeholder Management",
+      "desc": "Proficient in clarifying business requirements—such as Caching TTLs and data volatility—directly with stakeholders to align technical solutions with business goals."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Ownership Mindset",
+      "desc": "Known for signing up as a feature owner for high-stakes workstreams and seeing them through to live production."
+    },
+    {
+      "title": "Problem-Solving",
+      "desc": "Highly effective at debugging legacy codebases to reverse-engineer business logic where documentation is missing."
+    },
+    {
+      "title": "Mentorship",
+      "desc": "Passionate about pair programming and conducting cross-team Knowledge Transfer (KT) sessions to elevate collective team performance."
+    },
+    {
+      "title": "Accountability",
+      "desc": "Thrives under rigorous delivery timelines, maintaining a solution-oriented approach in fast-paced environments."
+    },
+    {
+      "title": "Organizational Growth",
+      "desc": "Actively contributes to company growth by serving as a Technical Interviewer for new developer candidates."
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E, Computer Science",
+      "date": "03/2021",
+      "institution": "Sri Eshwar College of Engineering - Coimbatore"
+    }
+  ]
+}
